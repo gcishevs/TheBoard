@@ -1,0 +1,13 @@
+{
+  "name": "TheBoard",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "vash": "^0.9.3"
+  }
+}
